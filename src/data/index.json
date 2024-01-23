@@ -1,0 +1,78 @@
+{
+"skills": [
+        {
+            "id":"1",
+            "src":"./img/react.png",
+            "title":"Front-End",
+            "description":"Aspiring React developer with hands-on experience in crafting responsive user interfaces through multiple front-end projects."
+        },
+        {
+            "id":"2",
+            "src":"./img/springboot.png",
+            "title":"Back-End",
+            "description":"Developed RESTful API projects using Spring Boot, Hibernate, JPA and MySQL to deliver efficient and scalable backend code."
+        },
+        {
+            "id":"3",
+            "src":"./img/aws.png",
+            "title":"AWS Skills",
+            "description":"Hands-on experience deploying and managing AWS services, including Lambda, RDS, ECR, ECS, EC2 instances, S3 storage, and Step Functions."
+        },
+
+        {
+            "id":"4",
+            "src":"./img/python.png",
+            "title":"Python Skills",
+            "description":"Applied Python object-oriented programming (OOP) principles and acquired proficiency in NumPy and Pandas for efficient data manipulation and analysis."
+        }
+    ],
+"portfolio": [
+        {
+            "id":"1",
+            "src":"./img/rpa.png",
+            "title":"Recuitment Process Automation",
+            "description":"Coded a recruitment process automation to rate resumes based on their skill count, and deployed this on aws ecs instance with docker images, also used various google service apis for data manipulation",
+            "link": "View in Github"
+        },
+        {
+            "id":"2",
+            "src":"./img/auction.png",
+            "title":"Auction Mobility Project",
+            "description":"Developed APIs that were well tested with valid responses for all edge conditions, to facilitate auctioneers to put on their data onto auction lots and also handle complex data dumps with bulk import of auction lots",
+            "link": "View in Github"
+        },
+        {
+            "id":"3",
+            "src":"./img/goablog.png",
+            "title":"Blog Website about my Travels",
+            "description":"Created a blog that consisted of a photogallery of my travels in Goa, and showcased a modern ui to present my ideas and thoughts about it.",
+            "link": "View Website"
+        }
+    ],
+"testimonial": [
+        {
+            "id":"1",
+            "count":"5",
+            "src":"./img/avatar-image.png",
+            "description":"Remarkable coding ability and a disciplined work ethic characterize his contributions.",
+            "author_name": "Surendra Patel",
+            "author_designation": "Product Manager"
+        },
+        {
+            "id":"2",
+            "count":"5",
+            "src":"./img/avatar-image-1.png",
+            "description":"Helped leverage AWS expertise to implement scalable solutions for our systems run smoothly.",
+            "author_name": "Lucio Rodrigues",
+            "author_designation": "Tech Architect"
+        },
+        {
+            "id":"3",
+            "count":"5",
+            "src":"./img/avatar-image-2.png",
+            "description":"Exemplifyied a disciplined work ethic and coding finesse in every project.",
+            "author_name": "Shankar Prakash",
+            "author_designation": "Coding Maestro"
+        }
+    ]
+}
